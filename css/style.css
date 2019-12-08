@@ -99,21 +99,14 @@ img, video, audio, iframe, table, form {
   width: 960px;
   margin: 0 auto;
 }
-
 .col-1 {
   float: left;
   width: 32%;
-  background: #ccc;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  background: #ccc;
-}
-
-.col-3 {
-  background: #ccc;
 }
 
 [class*="col-"] {
